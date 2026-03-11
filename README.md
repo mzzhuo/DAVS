@@ -6,10 +6,12 @@ Source codes implement 1) the Diffusion-aware voltage source and shell ECM in Se
 To run the SPM simulation within PyBaMM, pre-install pybamm package available at https://github.com/pybamm-team/PyBaMM
 
 Experimental data files for Section 4:
-1C:
-https://hkustconnect-my.sharepoint.com/:u:/g/personal/mzhuo_connect_ust_hk/EQokd9jVu0BHuZHZ8mT-QUMBBSjJLsTQVr9p9usrGF_eAQ?e=2jspdx
-2C:
+
+[1C](https://k00.fr/j43duoae)
+
+[2C](https://k00.fr/oq4qywoa)
 https://hkustconnect-my.sharepoint.com/:u:/g/personal/mzhuo_connect_ust_hk/EcEOp6LJnwNLnaBd78i-u0kBvB071Kw1EMN_HRueSrHVzQ?e=P7bQ2t
-0.4C:
-https://hkustconnect-my.sharepoint.com/:u:/g/personal/mzhuo_connect_ust_hk/EZZzSpt_gRJKsebuLSg-PegBUGWbSTbD4D_WlQwqV_HDVQ?e=Z1ypth
+
+[0.4C](https://k00.fr/lr62edy6)
+
 Note that the experimental data include constant-current charge/discharge, GITT discharge profiles etc.
