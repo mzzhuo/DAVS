@@ -10,7 +10,6 @@ Experimental data files for Section 4:
 [1C](https://k00.fr/j43duoae)
 
 [2C](https://k00.fr/oq4qywoa)
-https://hkustconnect-my.sharepoint.com/:u:/g/personal/mzhuo_connect_ust_hk/EcEOp6LJnwNLnaBd78i-u0kBvB071Kw1EMN_HRueSrHVzQ?e=P7bQ2t
 
 [0.4C](https://k00.fr/lr62edy6)
 
